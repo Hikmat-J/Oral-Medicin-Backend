@@ -1,3 +1,3 @@
 module.exports = {
-  url: "mongodb://localhost:27017/NewOralMedicinDB"
+  url: "mongodb+srv://hikmatjaafer7:Hikmat1234567@oralcluster.dhzvqc0.mongodb.net/?retryWrites=true&w=majority"
 };
